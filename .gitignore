@@ -1,0 +1,6 @@
+/logs
+/logs_archive
+/.env
+/.env.local
+client_secrets.json
+mycreds.txt
